@@ -1,7 +1,7 @@
 # Hello everyone, I'm Dmitry Firsanov ✌️
 ## 🚀 About Me
 - I'm a Frontend Developer💻
-- Now i work in "Европа" retail chain
+- Now i work in МИП ЦКИ
 ## 💾Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
